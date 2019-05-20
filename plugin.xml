@@ -7,7 +7,7 @@
         Cordova plugin that migrates WebSQL, localStorage and IndexedDB (iOS only) data when you start using the `cordova-plugin-ionic-webview` plugin.
         This works for both Android and iOS!
     </description>
-    <keywords>ecosystem:cordova,cordova-plugin,cordova,cordova-ios,cordova-android,ios,android,uiwebview,wkwebview,websql,localstorage,indexeddb</keywords>
+    <keywords>ecosystem:cordova,cordova-plugin,cordova,cordova-ios,ios,uiwebview,wkwebview,websql,localstorage,indexeddb</keywords>
 
     <platform name="ios">
         <config-file target="config.xml" parent="/*">
@@ -21,7 +21,7 @@
 
         <framework src="FMDB" type="podspec" spec="~> 2.7.4" />
     </platform>
-<!-- 
+<!--
     <platform name="android">
         <config-file parent="/*" target="res/xml/config.xml">
             <feature name="MigrateStorage">

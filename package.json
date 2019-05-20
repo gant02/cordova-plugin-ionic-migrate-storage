@@ -12,6 +12,6 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["ecosystem:cordova", "cordova", "cordova-plugin", "cordova-ios", "cordova-android", "ios", "android", "uiwebview", "wkwebview", "websql", "localstorage", "indexeddb"],
+  "keywords": ["ecosystem:cordova", "cordova", "cordova-plugin", "cordova-ios", "ios", "uiwebview", "wkwebview", "websql", "localstorage", "indexeddb"],
   "author": "Pointman Dev <dev@pointman.com>"
 }
